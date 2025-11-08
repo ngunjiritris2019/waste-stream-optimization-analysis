@@ -97,9 +97,7 @@ Waste_Stream_Analysis/
 │
 ├── waste_analysis.ipynb          # Main analysis notebook
 ├── Waste Categories Data.csv     # Raw data (not included for confidentiality)
-├── waste_analysis_summary.csv    # Generated summary metrics
 ├── README.md                      # Project documentation
-└── visualizations/                # Exported charts (optional)
 ```
 
 ## Skills Demonstrated
